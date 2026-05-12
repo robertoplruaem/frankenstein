@@ -1,1 +1,4 @@
 Cabeza con casco de acero y ojos de rayo láser.
+Torso normal
+Brazos normales
+Piernas normales
